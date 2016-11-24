@@ -12,6 +12,17 @@
 		371166531DE660E600902F43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 371166511DE660E600902F43 /* Main.storyboard */; };
 		371166551DE660E600902F43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 371166541DE660E600902F43 /* Assets.xcassets */; };
 		371166581DE660E600902F43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 371166561DE660E600902F43 /* LaunchScreen.storyboard */; };
+		371166601DE6610800902F43 /* exer1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3711665F1DE6610800902F43 /* exer1.swift */; };
+		37ECF80D1DE66424009D5138 /* exer2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF80C1DE66424009D5138 /* exer2.swift */; };
+		37ECF80F1DE66463009D5138 /* exer3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF80E1DE66463009D5138 /* exer3.swift */; };
+		37ECF8111DE6647C009D5138 /* exer4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF8101DE6647C009D5138 /* exer4.swift */; };
+		37ECF8131DE66B10009D5138 /* Exer5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF8121DE66B10009D5138 /* Exer5.swift */; };
+		37ECF8151DE66B1B009D5138 /* Exer6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF8141DE66B1B009D5138 /* Exer6.swift */; };
+		37ECF8171DE66B23009D5138 /* Exer7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF8161DE66B23009D5138 /* Exer7.swift */; };
+		37ECF8191DE66B2E009D5138 /* Exer8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF8181DE66B2E009D5138 /* Exer8.swift */; };
+		37ECF81B1DE66B35009D5138 /* Exer9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF81A1DE66B35009D5138 /* Exer9.swift */; };
+		37ECF81D1DE66B47009D5138 /* Exer10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF81C1DE66B47009D5138 /* Exer10.swift */; };
+		37ECF81F1DE66B52009D5138 /* Exer11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37ECF81E1DE66B52009D5138 /* Exer11.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		371166541DE660E600902F43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		371166571DE660E600902F43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		371166591DE660E600902F43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3711665F1DE6610800902F43 /* exer1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = exer1.swift; sourceTree = "<group>"; };
+		37ECF80C1DE66424009D5138 /* exer2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = exer2.swift; sourceTree = "<group>"; };
+		37ECF80E1DE66463009D5138 /* exer3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = exer3.swift; sourceTree = "<group>"; };
+		37ECF8101DE6647C009D5138 /* exer4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = exer4.swift; sourceTree = "<group>"; };
+		37ECF8121DE66B10009D5138 /* Exer5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exer5.swift; sourceTree = "<group>"; };
+		37ECF8141DE66B1B009D5138 /* Exer6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exer6.swift; sourceTree = "<group>"; };
+		37ECF8161DE66B23009D5138 /* Exer7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exer7.swift; sourceTree = "<group>"; };
+		37ECF8181DE66B2E009D5138 /* Exer8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exer8.swift; sourceTree = "<group>"; };
+		37ECF81A1DE66B35009D5138 /* Exer9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exer9.swift; sourceTree = "<group>"; };
+		37ECF81C1DE66B47009D5138 /* Exer10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exer10.swift; sourceTree = "<group>"; };
+		37ECF81E1DE66B52009D5138 /* Exer11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exer11.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +82,27 @@
 				371166541DE660E600902F43 /* Assets.xcassets */,
 				371166561DE660E600902F43 /* LaunchScreen.storyboard */,
 				371166591DE660E600902F43 /* Info.plist */,
+				37ECF80B1DE6640E009D5138 /* exercicios */,
 			);
 			path = thomazdf;
+			sourceTree = "<group>";
+		};
+		37ECF80B1DE6640E009D5138 /* exercicios */ = {
+			isa = PBXGroup;
+			children = (
+				3711665F1DE6610800902F43 /* exer1.swift */,
+				37ECF80C1DE66424009D5138 /* exer2.swift */,
+				37ECF80E1DE66463009D5138 /* exer3.swift */,
+				37ECF8101DE6647C009D5138 /* exer4.swift */,
+				37ECF8121DE66B10009D5138 /* Exer5.swift */,
+				37ECF8141DE66B1B009D5138 /* Exer6.swift */,
+				37ECF8161DE66B23009D5138 /* Exer7.swift */,
+				37ECF8181DE66B2E009D5138 /* Exer8.swift */,
+				37ECF81A1DE66B35009D5138 /* Exer9.swift */,
+				37ECF81C1DE66B47009D5138 /* Exer10.swift */,
+				37ECF81E1DE66B52009D5138 /* Exer11.swift */,
+			);
+			name = exercicios;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +178,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37ECF81B1DE66B35009D5138 /* Exer9.swift in Sources */,
+				37ECF8151DE66B1B009D5138 /* Exer6.swift in Sources */,
+				37ECF8111DE6647C009D5138 /* exer4.swift in Sources */,
+				37ECF81F1DE66B52009D5138 /* Exer11.swift in Sources */,
+				37ECF8171DE66B23009D5138 /* Exer7.swift in Sources */,
+				37ECF80D1DE66424009D5138 /* exer2.swift in Sources */,
+				371166601DE6610800902F43 /* exer1.swift in Sources */,
 				371166501DE660E600902F43 /* ViewController.swift in Sources */,
+				37ECF80F1DE66463009D5138 /* exer3.swift in Sources */,
+				37ECF81D1DE66B47009D5138 /* Exer10.swift in Sources */,
+				37ECF8131DE66B10009D5138 /* Exer5.swift in Sources */,
+				37ECF8191DE66B2E009D5138 /* Exer8.swift in Sources */,
 				3711664E1DE660E600902F43 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +354,7 @@
 				3711665E1DE660E600902F43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  thomazdf
 //
-//  Created by Douglas Silveira Machado on 23/11/16.
-//  Copyright © 2016 Machado. All rights reserved.
+//  Created by Thomaz Df on 23/11/16.
+//  Copyright © 2016 Df. All rights reserved.
 //
 
 import UIKit
